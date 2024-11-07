@@ -12,13 +12,6 @@
 ![](github_assets/SS2.png)
 
 <br>
-
-## Model View ViewModel Architecture
-
-![](github_assets/mvvm.png)
-
-<br>
-
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
 - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - A coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously.
